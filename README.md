@@ -114,6 +114,10 @@ Next lets create some classes for some columns.
 }
 
 .col-1 {
+  float: left;
+  width: 32%;
+  
+  
   /* this column will span one-third */
 }
 
