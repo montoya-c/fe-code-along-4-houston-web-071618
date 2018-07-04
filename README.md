@@ -114,23 +114,14 @@ Next lets create some classes for some columns.
 }
 
 .col-1 {
-  float: left;
-  width: 32%;
-  background: #ccc;
-  
   /* this column will span one-third */
 }
 
 .col-2 {
-  float: left;
-  width: 66%;
-  background: #ccc;
-  
   /* this column will span two-thirds */
 }
 
 .col-3 {
-  background: #ccc;
   /* this column will span all the entire wrapper */
 }
 ```
